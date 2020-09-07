@@ -3,3 +3,5 @@ System.out.println("hello world");
 printf("hello world");
 
 cout<<"hello world"<<endl;
+
+print('hello world')
